@@ -1,0 +1,19 @@
+{
+    "name": "rpfilomeno/voip-mon-aws-cloudwatch",
+    "description": "VOIP Statistics to AWS CloudWatch",
+    "minimum-stability": "dev",
+    "license": "(LGPL-2.1 or GPL-3.0+)",
+    "authors": [
+        {
+            "name": "Roger Filomeno",
+            "email": "rpfilomeno@gmail.com"
+        }
+    ],
+    "prefer-stable" : true,
+    "require" : {
+        "php": ">=5.5",
+        "aws/aws-sdk-php": "3.18.3",
+        "corneltek/cliframework": "2.8.1",
+        "zendframework/zend-config": "2.6.0"
+    }
+}
