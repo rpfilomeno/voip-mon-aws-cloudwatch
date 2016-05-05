@@ -49,7 +49,11 @@ Usage
 ### Monitoring Asterisk
 
 1. Test the script for monitoring Kamailio with 
+<<<<<<< HEAD
 ```./mon-put-instance-data.php stats --t asterisk```
+=======
+```./mon-put-instance-data.php stats --t kamailio```
+>>>>>>> 860fba54dbca556a61b33ed1381baa221bfabfa9
 
 2. Install to Crontab with ```crontab -e```
 <pre>

@@ -1,3 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
+<<<<<<< HEAD
 /.idea/
 /vendor/
+=======
+.idea/
+src/
+>>>>>>> 860fba54dbca556a61b33ed1381baa221bfabfa9
