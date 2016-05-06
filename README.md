@@ -19,7 +19,7 @@ Installation
 
 1. Git clone to any Linux instance with Kamailio or Asterisk installed, 
 for example to ~/home/ec2-user/ using 
-```git clone https://github.com/rpfilomeno/rpfilomeno.github.io.git```
+```git clone https://github.com/rpfilomeno/voip-mon-aws-cloudwatch.git```
 
 2. Go to the project's root directory by ```cd ./voip-mon-aws-cloudwatch/```
 
