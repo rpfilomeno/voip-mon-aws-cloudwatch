@@ -7,11 +7,11 @@
  * Time: 10:26 PM
  */
 
-$loader = require 'vendor/autoload.php';
+$loader = require __DIR__.'/vendor/autoload.php';
 $loader->add('Godie','src');
 
-require 'src/Godie/Application.php';
-require 'src/Godie/Command/StatsCommand.php';
+require __DIR__.'/src/Godie/Application.php';
+require __DIR__.'/src/Godie/Command/StatsCommand.php';
 
 $app = new Godie\Application;
 $app->runWithTry($argv);

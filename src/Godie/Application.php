@@ -19,6 +19,5 @@ class Application extends \CLIFramework\Application {
     {
         parent::init();
         $this->command('stats');
-        $this->topic('basic');
     }
 } 
