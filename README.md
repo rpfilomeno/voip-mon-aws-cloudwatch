@@ -4,6 +4,7 @@ VOIP Statistics to AWS CloudWatch
 VOIP Statistics to AWS CloudWatch is a monitoring script for Kamailio and Asterisk 
 for AWS CloudWatch written in PHP. This works similarly to [AWS CloudWatch Monitoring Script](http://docs.aws.amazon.com/AmazonCloudWatch/latest/DeveloperGuide/mon-scripts.html) (Linux).
 
+<img src="http://rpfilomeno.github.io/images/voip-aws-mon.jpg">
 
 Requirements
 ------------
